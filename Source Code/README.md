@@ -9,4 +9,7 @@ This is a brief description of what each notebook does.
 
 The trained Models can be accessed [here](https://entuedu-my.sharepoint.com/:f:/g/personal/mlim088_e_ntu_edu_sg/Ek1Ce0dOa0xNi5p9Zx8GsGMBpk9D9sZCQk8djtRI52f-wQ?e=fbPBad).
 
-The datasets used can be accessed [here](https://entuedu-my.sharepoint.com/:f:/g/personal/mlim088_e_ntu_edu_sg/Es0bCfX6eoNOolhzEq3YgaoBmR4GYabdTywAAGp-tjE0hg?e=7bB31B).
+The "WELFake" dataset used can be accessed [here](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification).
+
+The "news.csv" dataset used can be accessed [here](https://www.kaggle.com/datasets/antonioskokiantonis/newscsv).
+
