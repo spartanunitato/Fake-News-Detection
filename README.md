@@ -1,6 +1,6 @@
 # SC1015-Fake-News-Detection
 
-**Welcome to the repository for our fake news detection project!** In this project, we explore the capabilities of advanced machine learning techniques to identify and classify fake news articles. Our primary goal is to implement and compare two distinct models: a pre-trained BERT model and a logistic regression model.
+**Welcome to our GitHub repository** In this project, we explore the capabilities of advanced machine learning techniques to identify and classify fake news articles. Our primary goal is to implement and compare two distinct models: a pre-trained BERT model and a logistic regression model.
 
 ## Project Overview
 
