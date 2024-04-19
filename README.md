@@ -13,3 +13,9 @@ This project uses the **WELFake dataset** for training our models. The **news.cs
 3. To evaluate both models using a separate dataset (news.csv) to ensure they generalise well on unseen data.
 
 ## Contributors
+
+* Brian: Logistic Regression Model and Training
+* Shan Shan: Data Exploration, Data Processing and Unseen Testing
+* Magnus: BERT Model and Training
+
+## References
