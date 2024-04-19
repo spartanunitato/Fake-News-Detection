@@ -11,3 +11,5 @@ This project uses the **WELFake dataset** for training our models. The **news.cs
 1. To train and fine-tune a pre-trained BERT model on the WELFake dataset for fake news detection.
 2. To implement a logistic regression model as a comparative baseline to assess its performance against deep learning techniques.
 3. To evaluate both models using a separate dataset (news.csv) to ensure they generalise well on unseen data.
+
+## Contributors
