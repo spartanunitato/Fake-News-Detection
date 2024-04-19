@@ -19,3 +19,8 @@ This project uses the **WELFake dataset** for training our models. The **news.cs
 * Magnus: BERT Model and Training
 
 ## References
+
+* [https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805)
+* [https://huggingface.co/docs/transformers/en/index](https://huggingface.co/docs/transformers/en/index)
+* [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+* [https://huggingface.co/docs/transformers/en/index](https://huggingface.co/docs/transformers/en/index)
