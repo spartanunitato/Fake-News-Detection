@@ -23,4 +23,7 @@ This project uses the **WELFake dataset** for training our models. The **news.cs
 * [https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805)
 * [https://huggingface.co/docs/transformers/en/index](https://huggingface.co/docs/transformers/en/index)
 * [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
-* [https://huggingface.co/docs/transformers/en/index](https://huggingface.co/docs/transformers/en/index)
+* [https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
+* [https://www.kaggle.com/datasets/antonioskokiantonis/newscsv](https://www.kaggle.com/datasets/antonioskokiantonis/newscsv)
+* [https://www.researchgate.net/figure/The-architecture-of-the-Fine-tuned-BERT-base-classifier_fig3_351392408](https://www.researchgate.net/figure/The-architecture-of-the-Fine-tuned-BERT-base-classifier_fig3_351392408)
+
